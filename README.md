@@ -1,5 +1,3 @@
 # odin-recipes
 
-## Website that contains recipes.
-
-## Built with HTML. 
+ Website that contains recipes. Built with HTML. 
